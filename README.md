@@ -4,16 +4,16 @@ This project explores a year’s worth of sales data from a fictional pizza rest
 The analysis combines four datasets (Orders, Order Details, Pizzas, and Pizza Types) into a unified data frame to perform comprehensive exploratory data analysis (EDA).
 
 🔍 Key Insights Explored:
-Total revenue and quantity sold
-Total number of orders
-Best-selling and low-performing pizzas
-Sales trends by month and day of the week
-Sales trends by month and day of the week
-Peak hours of operation
+- Total revenue and quantity sold
+- Total number of orders
+- Best-selling and low-performing pizzas
+- Sales trends by month and day of the week
+- Sales trends by month and day of the week
+- Peak hours of operation
 
 Tools Used:
-Python
-Pandas
-NumPy
-Matplotlib
-Seaborn
+- Python
+- Pandas
+- NumPy
+- Matplotlib
+- Seaborn
